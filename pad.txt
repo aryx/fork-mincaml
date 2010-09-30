@@ -1,1 +1,3 @@
-compressed a few big files to not distort the treemap
+compressed a few big files to not distort the treemap.
+moved files
+
